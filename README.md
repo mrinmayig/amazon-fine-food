@@ -16,11 +16,12 @@ Data includes:
 1) Data fetching
 2) Data manipulation
 3) Data visualization
-4) Text processing, feature extraction and vectorization
+4) Text processing
 5) Train-test split
-6) Sentiment Classification
-7) Evaluation
-8) Saving the model
+6) Feature extraction and vectorization
+7) Sentiment Classification
+8) Evaluation
+9) Saving the model
 
 # Libraries used
 Pandas, NumPy, NLTK, Scikit-Learn, Re, Seaborn, Matplotlib, TfidfVectorizer, Pickle
